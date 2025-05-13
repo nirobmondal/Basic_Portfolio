@@ -46,14 +46,6 @@ As I continue learning web development, I plan to enhance this portfolio with:
    ```
 3. Open `index.html` in your browser to view the site locally
 
-## 💡 Setup GitHub Pages (Documentation)
-
-This site is already deployed using GitHub Pages. If you want to make changes to the deployment settings:
-
-1. Go to your repository settings
-2. Navigate to "Pages" in the sidebar
-3. Under "Build and deployment", select the desired branch
-4. Save your changes
 
 ## 📷 Screenshot
 
